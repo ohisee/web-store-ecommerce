@@ -1,0 +1,15 @@
+.App {
+  /* display: flex; */
+  /* flex-direction: column; */
+  /* justify-content: center; */
+  /* align-items: center; */
+  /* height: 100vh; */
+  display: grid;
+  grid-template-columns: 360px 360px;
+  gap: 16px;
+  justify-content: center;
+}
+
+.App > div[class^="card"] {
+  margin-top: 20px;
+}
