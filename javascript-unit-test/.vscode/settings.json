@@ -1,0 +1,8 @@
+{
+  "editor.rulers": [
+    80
+  ],
+  "editor.formatOnSave": true,
+  "editor.fontSize": 13,
+  "editor.tabSize": 2
+}
