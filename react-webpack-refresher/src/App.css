@@ -8,8 +8,8 @@
 }
 
 .card {
-  width: 300px;
-  height: 400px;
+  width: 380px;
+  height: 390px;
   padding: 50px;
   border-radius: 15px;
   display: flex;
@@ -20,5 +20,6 @@
 }
 
 .title {
-  font-size: 40px;
+  font-family: sans-serif;
+  font-size: 30px;
 }
